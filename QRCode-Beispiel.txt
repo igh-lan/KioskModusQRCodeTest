@@ -1,0 +1,15 @@
+{
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_COMPONENT_NAME":
+    "com.infotec.xbrowser/com.infotec.xbrowser.DeviceOwnerReceiver",
+
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_DOWNLOAD_LOCATION":
+    "https://github.com/igh-lan/KioskModusQRCodeTest/releases/download/TestV1/com.infotec.xbrowser.apk",
+
+  "android.app.extra.PROVISIONING_DEVICE_ADMIN_PACKAGE_CHECKSUM":
+    "BurGc2412urVRhqQ5MHOuHY893EtwDLT9tBOXC1L5hQ=",
+  "android.app.extra.PROVISIONING_LEAVE_ALL_SYSTEM_APPS_ENABLED": true,
+
+  "android.app.extra.PROVISIONING_WIFI_SSID": "Infotec_SAP",
+  "android.app.extra.PROVISIONING_WIFI_PASSWORD": "25ajGh7654FF2wrQPbf87",
+  "android.app.extra.PROVISIONING_WIFI_SECURITY_TYPE": "WPA"
+}
