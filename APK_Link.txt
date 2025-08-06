@@ -1,1 +1,0 @@
-https://raw.githubusercontent.com/igh-lan/KioskModusQRCodeTest/refs/heads/main/com.infotec.xbrowser.apk
